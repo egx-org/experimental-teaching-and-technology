@@ -2,6 +2,12 @@
 
 A collection of notes and resources about education reform for teaching STEAM.
 
+## Canonical Sources
+
+* [GitLab](https://gitlab.com/comp_sci_edu/experimental-teaching-and-technology)
+* [GitHub](https://github.com/egx-org/experimental-teaching-and-technology)
+* [Keybase](keybase://team/comp_sci_edu/experimental-teaching-and-technology)
+
 ## Background
 
 I (Elio Grieco) have worked in software development since 1997. During this time I've worked on a wide array of projects from auto-routing, simulation and optimization for analog circuits to websites ranging from small static sites up to working on a core engineering team at Amazon.com.
