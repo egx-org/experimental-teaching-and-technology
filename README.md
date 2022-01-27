@@ -8,6 +8,10 @@ A collection of notes and resources about education reform for teaching STEAM.
 * [GitHub](https://github.com/egx-org/experimental-teaching-and-technology)
 * [Keybase](keybase://team/comp_sci_edu/experimental-teaching-and-technology)
 
+## License
+
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE). If you have any questions, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
 ## Background
 
 I (Elio Grieco) have worked in software development since 1997. During this time I've worked on a wide array of projects from auto-routing, simulation and optimization for analog circuits to websites ranging from small static sites up to working on a core engineering team at Amazon.com.

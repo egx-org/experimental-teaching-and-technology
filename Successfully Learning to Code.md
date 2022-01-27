@@ -4,6 +4,10 @@ This is a list of observations about things that enable or inhibit learning of c
 
 Current status: **DRAFT**
 
+## License
+
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE). If you have any questions, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
 ## Preparation and Mindset
 
 Programming is a massively wide and deep field with lifetimes worth of knowledge in numerous sub fields. It's far too easy to get intimidated and give up early. This can be avoided or minimized by getting learners into the correct mindset before embarking on this journey.
@@ -71,7 +75,7 @@ Programming is a massively wide and deep field with lifetimes worth of knowledge
 
 ### Start with unplugged learning
 
-* Minimize unnecessary errors like syntax errors. 
+* Minimize unnecessary errors like syntax errors.
 * Choose languages that give good and detailed error messages.
 * Give users some early wins to build confidence.
 * Make sure that learners understand that learning difficulty in programming is logarithmic i.e. it feels impossibly difficult when you first start, but once you gain a certain amount of knowledge it starts to get much easier, much faster.
