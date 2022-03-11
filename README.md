@@ -23,3 +23,4 @@ Interestingly, my time in the US Army proved to be more similar to my early Mont
 ## Resources
 
 * [Successfully Learning to Code](Successfully Learning to Code.md): A list of observations about things that enable or inhibit learning of computer science for people with no prior exposure, applicable to all ages.
+* [Tech Education Reform](Tech Education Reform.md): Thoughts about the structural deficiencies in our current educational system and how the mismatch with the needs of technology and knowledge sector jobs makes school more of a liability than an asset in the real world.
