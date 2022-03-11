@@ -1,6 +1,6 @@
 # Successfully Learning to Code
 
-This is a list of observations about things that enable or inhibit learning of computer science for people with no prior exposure, applicable to all ages.
+A list of observations about things that enable or inhibit learning of computer science for people with no prior exposure, applicable to all ages.
 
 Current status: **DRAFT**
 
