@@ -50,3 +50,11 @@ While it may seem ridiculous to spend considerable amounts of time automating "t
 The need for extensive classroom management strategies stems in large part from the lack of agency students have and their perception (often correct) of the lack of utility of that which they are being taught.
 
 When students are given agency and control over their projects, "classroom management" is rarely necessary. Note that the best hackathons tend toward self-managed groups of individuals working toward a comman goal on a shared project.
+
+## Late vs Good
+
+Punctuality is critically important in some jobs e.g. surgeon, firefighter, military, assembly line worker.
+
+In tech however, punctuality is a distant concern compared to quality. Bad code costs lives and trillions of dollars globally. It's far more important for code to be correct, clean, and maintainable than for it to be done on time.
+
+There are exceptions where getting things done quickly matters like while responding to an incident, restoring critical services during an outage, or preparing systems for launch windows in aerospace. Though these are (or sholud be) rare occurances with regard to all tech jobs.
