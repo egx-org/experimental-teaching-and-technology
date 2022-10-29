@@ -22,5 +22,28 @@ Interestingly, my time in the US Army proved to be more similar to my early Mont
 
 ## Resources
 
+Resources for people trying to understand or enter the field of software development.
+
 * [Successfully Learning to Code](Successfully Learning to Code.md): A list of observations about things that enable or inhibit learning of computer science for people with no prior exposure, applicable to all ages.
+
+### Suggestions
+
 * [Tech Education Reform](Tech Education Reform.md): Thoughts about the structural deficiencies in our current educational system and how the mismatch with the needs of technology and knowledge sector jobs makes school more of a liability than an asset in the real world.
+* [Proper Structure for Assignments](Proper Structure for Assignments.md): Some suggestions for how to structure effective software development assignments.
+
+### Comparisons
+
+Some documents discussing observations of the differences between teaching technology vs actually building systems in the industry.
+
+* [Teaching vs Working in Tech](Teaching vs Working in Tech.md)
+* [Differences in Education vs Industry](Differences in Education vs Industry.md)
+
+### Barriers
+
+Analysis of the various reasons that software developers are unlikely or unwilling to take jobs as teachers in tech.
+
+It should be noted that developers frequently volunteer and teach outside the school system, usually with no compensation, in the form of regular meetups, hack-a-thons, and mentoring.
+
+* [Barriers to Teaching](Barriers to Teaching.md)
+* [Why Schools Can't Hire Good Programming and Cybersecurity Teachers](Why Schools Can't Hire Good Programming and Cybersecurity Teachers.md)
+* [Impediments to Learning](Impediments to Learning.md)
